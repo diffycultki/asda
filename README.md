@@ -7,6 +7,13 @@ form.Designer.cs - интерфейс игры
 <img width="527" height="507" alt="image" src="https://github.com/user-attachments/assets/95eb6cdc-9b66-4f84-83c2-74c791f0f04c" />
 
 Алгоритм действий:
-1. Мы кликаем на 1 абсолютно любую клетку
+1. Мы кликаем на 1 абсолютно любую клетку, у нас появляется символ
 <img width="538" height="511" alt="image" src="https://github.com/user-attachments/assets/421c8e3e-f0d7-4ad9-be66-8ac7953d37b9" />
 
+2. Мы кликаем на 2 также любую клетку и у нас появляется второй символ
+<img width="529" height="544" alt="image" src="https://github.com/user-attachments/assets/9c644b84-10df-4a3e-86dd-d12ff3f68d82" />
+<img width="531" height="148" alt="image" src="https://github.com/user-attachments/assets/3233b274-dcc9-41f7-9c89-24d78ed4a390" />
+
+
+
+3. Сравниваем результаты: если 2 символа совпали, игрок получает очко, если не символы не совпали, 2 карточки переворачиваются обратно и игрок должен запомнить их расположение
